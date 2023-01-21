@@ -1,0 +1,27 @@
+.center-flex{
+    align-items:center ;
+    display: flex;
+    justify-content: center;
+    font-family: sans-serif;
+}
+.btn{
+    padding: 5px 30px;
+    background-color: #fff;
+    border: 2px solid #172337;
+    border-radius: 3px;
+    color: blue;    
+}
+.btn:hover{
+    font-weight: bolder;
+}
+.my-2{
+    margin: 20px 0;
+}
+.my-1{
+    margin: 2px 0;
+}
+
+.text-center{
+    text-align: center;
+    margin: 4px;
+}
