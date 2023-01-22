@@ -41,10 +41,10 @@ nav ul li a:hover{
 
 .input-type input{
     width: 339px;
-  height: 28px;
-  border-radius: 3px;
-  margin: 0px 16px 0 19px;
-  padding: 0px 11px;
+    height: 28px;
+    border-radius: 3px;
+    margin: 0px 16px 0 19px;
+    padding: 0px 11px;
 }
 
 .slider img{
@@ -123,8 +123,8 @@ footer{
     flex-direction: column;
 }
 .card-items-2 img{
- width: 988px;
-height: 211px;
-margin: 17px;
+    width: 988px;
+    height: 211px;
+    margin: 17px;
 }
 
