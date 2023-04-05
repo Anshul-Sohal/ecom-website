@@ -8,7 +8,6 @@
 nav{
     display: flex;
     margin: 3px;
-
 }
 header{
     background: var(--main-bg-color);
@@ -35,10 +34,8 @@ nav ul li a:hover{
 }
 .input-type{
     display: flex;
-    align-items: center;
-    
+    align-items: center;    
 }
-
 .input-type input{
     width: 339px;
   height: 28px;
@@ -46,11 +43,9 @@ nav ul li a:hover{
   margin: 0px 16px 0 19px;
   padding: 0px 11px;
 }
-
 .container{
     min-height: calc(100vh - 10vh - 12vh);
 }
-
 .slide-container{
     margin: 0;
     padding: 0;
@@ -76,8 +71,7 @@ nav ul li a:hover{
 .slide2 img{
     width: 1000px;
     height: 422px;
-    margin-top: 7px;
-    
+    margin-top: 7px;    
 }
 .nav-menu{
     position: absolute;
@@ -85,7 +79,6 @@ nav ul li a:hover{
     margin-top: -40px;
     display: flex;
     justify-content: center;
-
 }
 .manual-btn{
     border: 2px solid black;
@@ -93,11 +86,9 @@ nav ul li a:hover{
     border-radius: 5px;
     cursor:pointer;
     transition: 1s;
-
 }
 .manual-btn:not(:last-child){
     margin-right: 40px;
-
 }
 .manual-btn:hover{
     background:#172337;
@@ -134,10 +125,8 @@ footer{
     width: 100px;
     padding: 0 27px;
 }
-
 .btn:hover{
  font-weight: bolder;
-
 }
 .card-items img{
     height: 115px;
@@ -148,9 +137,7 @@ footer{
     max-width: 91vw;
     margin: auto;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
-    overflow: hidden;
-   
-    
+    overflow: hidden;    
 }
 .card h2{
     font-family: 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -159,7 +146,6 @@ footer{
     display: inline-flex;
     justify-content: center;
     flex-direction: column;
-
 }
 .card-2{
     max-width: 91vw;
@@ -175,7 +161,6 @@ footer{
     height: 167px;
     width: 297px;
     margin: 9px;
-
 }
 .card-items-2{
     display: inline-flex;
