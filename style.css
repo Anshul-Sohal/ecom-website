@@ -38,10 +38,10 @@ nav ul li a:hover{
 }
 .input-type input{
     width: 339px;
-  height: 28px;
-  border-radius: 3px;
-  margin: 0px 16px 0 19px;
-  padding: 0px 11px;
+    height: 28px;
+    border-radius: 3px;
+    margin: 0px 16px 0 19px;
+    padding: 0px 11px;
 }
 .container{
     min-height: calc(100vh - 10vh - 12vh);
